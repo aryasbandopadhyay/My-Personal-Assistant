@@ -1,0 +1,4 @@
+A basic app created using Pyqt and Wolframalpha and wikipedia API. 
+You enter your query there and it searches from wikipedia and wolframalpha and 
+returns a result. If nothing is found about the topic, it returns the first 10 
+links found in google. For betterment it even reads out the result infront of you.
